@@ -111,12 +111,13 @@ export default function Example() {
                 </div>
               </div>
               <div>
-                <button
+                <a
+                  href="/Home"
                   type="submit"
                   className="flex w-full justify-center rounded-md bg-blue-600 px-3 py-2 text-sm font-semibold text-white shadow-sm hover:bg-black focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"
                 >
                   Terminer l'inscription
-                </button>
+                </a>
               </div>
             </form>
           </div>
